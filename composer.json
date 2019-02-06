@@ -1,0 +1,12 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"DTA\\FirstComposer\\" : "src"
+		}
+	},
+	"name" : "DTA/FirstComposer",
+	"require" : {
+		"php" : ">=7.2",
+		"phpunit/phpunit" : "~7.5"
+	}
+}
